@@ -9,4 +9,4 @@ Constructed a fully functional website to help user achieve success for their up
 <br>
 <br>
 <br>
-### LIVE VERSION: https://nghialam2026.github.io/Traffic-Sign-Quiz/
+### LIVE VERSION: https://nghialam2026.github.io/Traffic-Sign-Quiz/ 🌟
