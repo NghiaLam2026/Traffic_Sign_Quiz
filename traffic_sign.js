@@ -1,4 +1,3 @@
-const my_alert = alert("This is for you Xuru!")
 const questions = [
     {
         question: "This sign mean?", //THIS IS FOR STOP SIGN
