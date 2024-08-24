@@ -35,4 +35,4 @@ If you have any questions or feedback, please feel free to reach out:
 <br>
 <br>
 ### LIVE DEMO
-- Link: https://nghialam2026.github.io/Traffic-Sign-Quiz/ 🌟
+- Link: https://nghialam2026.github.io/Traffic_Sign_Quiz/
